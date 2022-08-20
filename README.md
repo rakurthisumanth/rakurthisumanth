@@ -8,6 +8,7 @@
 - 💻 I Write Code Every Single Day
 - 📫 How to reach me sumanth6633@gmail.com
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rakurthisumanth&theme=onedark)](https://github.com/rakurthisumanth/github-profile-trophy)
  <h1> 👨🏻‍💻 Languages and Tools</h1>
 
 
