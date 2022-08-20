@@ -9,10 +9,11 @@
 - 📫 How to reach me sumanth6633@gmail.com
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=rakurthisumanth&theme=onedark)](https://github.com/rakurthisumanth/github-profile-trophy)
+ <br/>
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rakurthisumanth&theme=chartreuse-dark)](https://github.com/rakurthisumanth/github-readme-activity-graph)
  <h1> 👨🏻‍💻 Languages and Tools</h1>
 
-
+<br/>
  
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
