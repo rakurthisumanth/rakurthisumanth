@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently pursuing my Bachelor's Degree in electronics and communication Engineering
+- 🔭 I’m currently working in fullstack developer at eficens 
 - 💬 Ask me about webdevelopment
 - 💻 I Write Code Every Single Day
 - 📫 How to reach me sumanth6633@gmail.com
